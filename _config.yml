@@ -16,11 +16,13 @@ timezone: Asia/Seoul
 
 title: Está bom # the main title
 
-tagline:  Life is water 🌊 | My Daily Life. 
-         | human, traveler of life, 
-         | shy person, newbie of society. 
-         
-         | 일상 이야기를 주로 합니다. # it will display as the subtitle
+tagline:  | 
+           Life is water 🌊 | My Daily Life. 
+           human, traveler of life, 
+           shy person, newbie of society. 
+           일상 이야기를 주로 합니다. 
+                  
+    # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Daily, blog, Life, travel, story, diary, 일상, 블로그, 여행, 이야기, 다이어리
@@ -102,7 +104,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/IMG_1833.jpg"
+avatar: assets/img/IMG_1833.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
