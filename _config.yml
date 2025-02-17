@@ -17,7 +17,8 @@ timezone: Asia/Seoul
 title: Está bom # the main title
 
 tagline: Life is water 🌊 | My Daily Life. 
-         human, traveler of life, shy person, newbie of society. 
+         human, traveler of life, 
+         shy person, newbie of society. 
          
          일상 이야기를 주로 합니다. # it will display as the subtitle
 
@@ -29,10 +30,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://estabom.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: EstaBom # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Eine_Kleine_Koe  # change to your Twitter username
 
 social:
   # Change to your full name.
