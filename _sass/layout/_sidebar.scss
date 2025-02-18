@@ -97,10 +97,9 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   .site-title {
     @extend %clickable-transition;
     @extend %sidebar-link-hover;
-    @import url('https://fonts.googleapis.com/css2?family=Grandiflora+One&display=swap');
+    
 
-
-    font-family: "Grandiflora One", serif;
+    font-family: inherit;
     font-weight: 900;
     font-size: 1.75rem;
     line-height: 1.2;
